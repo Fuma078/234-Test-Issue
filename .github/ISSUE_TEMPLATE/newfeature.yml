@@ -9,7 +9,7 @@ body:
     attributes:
       label: Contact Details
       description: What is your name?
-      placeholder: "ex. Sretha Taweewattana"
+      placeholder: "ex. @email.com"
     validations:
       required: true
 
